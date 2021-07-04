@@ -43,8 +43,3 @@
     <img src="https://user-images.githubusercontent.com/57972338/124260362-8fc4fc80-db6a-11eb-8d92-1bbf263d8dbc.png">
   </a>
 </p>
-<h3 align="center">Project Plan</h3>
-<p align="center">
-  가계부<br>
-  time timer<br>
-</p>
