@@ -4,14 +4,14 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitehyun)](https://solved.ac/whitehyun)
 
-  <h3>Tech Stack</h3>
+  <h3>🛠Tech Stack🛠</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp
   </p>
-  <h3>Connect with me</h3>
+  <h3>📞Connect with me📞</h3>
     <a href="https://instagram.com/whi7ehyun" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
     </a>
