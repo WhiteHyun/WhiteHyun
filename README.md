@@ -12,11 +12,6 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
   </p>
   
-  <h3>📙 Blog Posts 📙</h3>
-<!--START_SECTION:feed-->
-  
-<!--END_SECTION:feed-->
-  
   <h3>📞 Connect with me 📞</h3>
     <a href="https://instagram.com/whi7ehyun" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
@@ -27,5 +22,10 @@
     <a href="mailto:whi7ehyun@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
     </a>
+  
+  <h3>📙 Blog Posts 📙</h3>
+  <!--START_SECTION:feed-->
+  
+  <!--END_SECTION:feed-->
 
 </div>
