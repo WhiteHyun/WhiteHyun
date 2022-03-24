@@ -24,8 +24,8 @@
     </a>
   
   <h3>📙 Blog Posts 📙</h3>
-  <!--START_SECTION:feed-->
-  
-  <!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 </div>
