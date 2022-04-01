@@ -1,10 +1,10 @@
 ### 📙 Blog Posts 📙
 <!-- BLOG-POST-LIST:START -->
+- [[알고리즘] 선택 정렬 &lpar;Selection Sort&rpar;](https://whitehyun.github.io/2022/04/01/selection-sort/)
 - [[알고리즘] 버블 정렬 &lpar;Bubble Sort&rpar;](https://whitehyun.github.io/2022/04/01/bubble-sort/)
 - [[Swift] 기초 문법 정리 - 함수 &lpar;2&rpar;](https://whitehyun.github.io/2022/03/31/Swift-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95-8/)
 - [[iOS] AppDelegate의 역할](https://whitehyun.github.io/2022/03/27/AppDelegate/)
 - [[data structure] Queue&lpar;큐&rpar; - 1](https://whitehyun.github.io/2022/03/24/queue-1/)
-- [[iOS] 앱의 시작점&lpar;Entry Point&rpar;은 어디일까?](https://whitehyun.github.io/2022/03/22/EntryPoint/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>🛠 Tech Stack 🛠</h3>
