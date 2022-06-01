@@ -1,10 +1,10 @@
 ### 📙 Blog Posts 📙
 <!-- BLOG-POST-LIST:START -->
 - [[iOS] 디자인 패턴 개요](https://whitehyun.github.io/2022/06/01/design-pattern-01/)
+- [[일기] 스터디 시작](https://whitehyun.github.io/2022/05/14/study-1-start/)
 - [[알고리즘] 삽입 정렬 &lpar;Insertion Sort&rpar;](https://whitehyun.github.io/2022/04/02/insertion-sort/)
 - [[알고리즘] 선택 정렬 &lpar;Selection Sort&rpar;](https://whitehyun.github.io/2022/04/01/selection-sort/)
 - [[알고리즘] 버블 정렬 &lpar;Bubble Sort&rpar;](https://whitehyun.github.io/2022/04/01/bubble-sort/)
-- [[Swift] 기초 문법 정리 - 함수 &lpar;2&rpar;](https://whitehyun.github.io/2022/03/31/Swift-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95-8/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠 Tech Stack 🛠
