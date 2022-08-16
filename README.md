@@ -1,10 +1,8 @@
 ### 📙 Blog Posts 📙
 <!-- BLOG-POST-LIST:START -->
-- [[iOS] UIButton의 old pattern을 제거해보자](https://whitehyun.github.io/2022/06/04/UIButton-old-pattern/)
-- [[iOS] 디자인 패턴 개요](https://whitehyun.github.io/2022/06/01/design-pattern-01/)
-- [[일기] 스터디 시작](https://whitehyun.github.io/2022/05/14/study-1-start/)
-- [[알고리즘] 삽입 정렬 &lpar;Insertion Sort&rpar;](https://whitehyun.github.io/2022/04/02/insertion-sort/)
-- [[알고리즘] 선택 정렬 &lpar;Selection Sort&rpar;](https://whitehyun.github.io/2022/04/01/selection-sort/)
+- [[iOS] 앱에서 메일 보내기 기능 구현하기](https://velog.io/@whitehyun/iOS-%EC%95%B1%EC%97%90%EC%84%9C-%EB%A9%94%EC%9D%BC-%EB%B3%B4%EB%82%B4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [첫 앱 출시 준비 - Flip Clock](https://velog.io/@whitehyun/%EC%B2%AB-%EC%95%B1-%EC%B6%9C%EC%8B%9C-%EC%A4%80%EB%B9%84-Flip-Clock)
+- [UILabel의 font 크기를 상위 View에 맞추어 dynamic하게 설정하는 법](https://velog.io/@whitehyun/UILabel%EC%9D%98-font-%ED%81%AC%EA%B8%B0%EB%A5%BC-%EC%83%81%EC%9C%84-View%EC%97%90-%EB%A7%9E%EC%B6%94%EC%96%B4-dynamic%ED%95%98%EA%B2%8C-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B2%95)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠 Tech Stack 🛠
