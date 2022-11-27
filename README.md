@@ -1,10 +1,10 @@
 ### Velog
 <!-- BLOG-POST-LIST:START -->
+- [[iOS] http 통신 가능하도록 설정하기](https://velog.io/@whitehyun/iOS-http-%ED%86%B5%EC%8B%A0-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8F%84%EB%A1%9D-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [[iOS] UICollectionViewCompositionalLayout](https://velog.io/@whitehyun/iOS-UICollectionViewCompositionalLayout)
 - [[iOS] UICollectionViewFlowLayout](https://velog.io/@whitehyun/iOS-UICollectionViewFlowLayout)
 - [[iOS] 구글 로그인](https://velog.io/@whitehyun/iOS-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 - [[iOS] Strong, Weak에 대하여](https://velog.io/@whitehyun/iOS-Strong-Weak%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
-- [Flip Clock 앱을 출시했다.](https://velog.io/@whitehyun/Flip-Clock-%EC%95%B1%EC%9D%84-%EC%B6%9C%EC%8B%9C%ED%96%88%EB%8B%A4)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stacks
