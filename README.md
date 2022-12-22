@@ -1,10 +1,10 @@
 ### Velog
 <!-- BLOG-POST-LIST:START -->
+- [[Git] PR을 git branch로 가져와서 보는 법](https://velog.io/@whitehyun/Git-PR%EC%9D%84-git-branch%EB%A1%9C-%EA%B0%80%EC%A0%B8%EC%99%80%EC%84%9C-%EB%B3%B4%EB%8A%94-%EB%B2%95)
 - [[iOS] http 통신 가능하도록 설정하기](https://velog.io/@whitehyun/iOS-http-%ED%86%B5%EC%8B%A0-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8F%84%EB%A1%9D-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [[iOS] UICollectionViewCompositionalLayout](https://velog.io/@whitehyun/iOS-UICollectionViewCompositionalLayout)
 - [[iOS] UICollectionViewFlowLayout](https://velog.io/@whitehyun/iOS-UICollectionViewFlowLayout)
 - [[iOS] 구글 로그인](https://velog.io/@whitehyun/iOS-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
-- [[iOS] Strong, Weak에 대하여](https://velog.io/@whitehyun/iOS-Strong-Weak%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stacks
