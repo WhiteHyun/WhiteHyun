@@ -14,10 +14,10 @@
 
 ### My App
 
-|Flip Clock|편행(진행중)| PLUB(진행중)
+|Flip Clock|편행| PLUB(진행중)
 |:-:|:-:|:-:|
 |<img src="https://user-images.githubusercontent.com/57972338/198289621-6dab00d1-7f0e-4851-b2b1-1800909b1b24.png" width="30%"/>| <img src="https://user-images.githubusercontent.com/57972338/210321655-881688c4-c1ca-437d-b795-c1840154294b.png" width="30%"/>|<img src="https://user-images.githubusercontent.com/57972338/210328485-11e984a0-f7b0-463f-b855-cf46f4ed86c6.png" width="30%"/>|
-|[다운로드 링크](https://apps.apple.com/app/flip-clock-탁상시계/id1633579148?platform=ipad)|||
+|[다운로드 링크](https://apps.apple.com/app/flip-clock-탁상시계/id1633579148?platform=ipad)|[다운로드 링크](https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509?l=en)||
 |[프로젝트](https://github.com/WhiteHyun/FlipClock)|[프로젝트](https://github.com/iOS-PPAK/PyeonHaeng)|[프로젝트](https://github.com/PLUB2022/PLUB-iOS)|
 
 ### Contact
