@@ -1,4 +1,4 @@
-### Velog
+### Blog
 <!-- BLOG-POST-LIST:START -->
 - [아직도 Swift에서 print문을 쓰고있나요?](https://velog.io/@whitehyun/%EC%95%84%EC%A7%81%EB%8F%84-Swift%EC%97%90%EC%84%9C-print%EB%AC%B8%EC%9D%84-%EC%93%B0%EA%B3%A0%EC%9E%88%EB%82%98%EC%9A%94)
 - [[iOS] Xcode Template을 이용하여 파일 구성 자동화하기](https://velog.io/@whitehyun/iOS-Xcode-Template%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%89%BD%EA%B2%8C-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
