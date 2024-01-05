@@ -14,12 +14,11 @@
 
 ### My App
 
-
-|Flip Clock|편행|PLUB|
-|:-:|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/57972338/198289621-6dab00d1-7f0e-4851-b2b1-1800909b1b24.png" width="30%"/>| <img src="https://user-images.githubusercontent.com/57972338/210321655-881688c4-c1ca-437d-b795-c1840154294b.png" width="30%"/>|<img src="https://user-images.githubusercontent.com/57972338/210328485-11e984a0-f7b0-463f-b855-cf46f4ed86c6.png" width="30%"/>|
-|[다운로드 링크](https://apps.apple.com/app/flip-clock-탁상시계/id1633579148?platform=ipad)|[다운로드 링크](https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509?l=en)|-|
-|[프로젝트](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1)|[프로젝트](https://github.com/iOS-PPAK/PyeonHaeng)|[프로젝트](https://github.com/PLUB2022/PLUB-iOS)|
+|Flip Clock|편행|PLUB|WeTri|
+|:-:|:-:|:-:|:-:|
+|<img src="https://user-images.githubusercontent.com/57972338/198289621-6dab00d1-7f0e-4851-b2b1-1800909b1b24.png" width="30%"/>| <img src="https://user-images.githubusercontent.com/57972338/210321655-881688c4-c1ca-437d-b795-c1840154294b.png" width="30%"/>|<img src="https://user-images.githubusercontent.com/57972338/210328485-11e984a0-f7b0-463f-b855-cf46f4ed86c6.png" width="30%"/>|<img src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/b4105587-fc70-4cce-ad52-2e7a3ec7114c" width="30%"/>|
+|[다운로드 링크](https://apps.apple.com/app/flip-clock-탁상시계/id1633579148?platform=ipad)|[다운로드 링크](https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509?l=en)|-|-|
+|[프로젝트](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1)|[프로젝트](https://github.com/iOS-PPAK/PyeonHaeng)|[프로젝트](https://github.com/PLUB2022/PLUB-iOS)|[프로젝트](https://github.com/boostcampwm2023/iOS08-WeTri)|
 
 
 ### Contact
