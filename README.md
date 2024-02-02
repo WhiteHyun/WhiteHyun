@@ -7,21 +7,79 @@
 - [[iOS] UICollectionViewCompositionalLayout](https://velog.io/@whitehyun/iOS-UICollectionViewCompositionalLayout) -->
 <!-- BLOG-POST-LIST:END -->
 
-### Stacks
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="83" height="83" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="83" height="83" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="83" height="83" /></div>
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=wave&section=header&color=ededed&fontColor=ffffff&height=150&fontSize=80&animation=fadeIn)
 
-### My App
+<h3 align="center">🧑🏻‍💻 Intro</h3>
+<h4>
+  🔨 Projects
+</h4>
 
-|Flip Clock|편행|PLUB|WeTri|
-|:-:|:-:|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/57972338/198289621-6dab00d1-7f0e-4851-b2b1-1800909b1b24.png" width="30%"/>| <img src="https://user-images.githubusercontent.com/57972338/210321655-881688c4-c1ca-437d-b795-c1840154294b.png" width="30%"/>|<img src="https://user-images.githubusercontent.com/57972338/210328485-11e984a0-f7b0-463f-b855-cf46f4ed86c6.png" width="30%"/>|<img src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/8b832295-e5f0-4972-92dd-884843ce174d" width="30%"/>|
-|[다운로드 링크](https://apps.apple.com/app/flip-clock-탁상시계/id1633579148?platform=ipad)|[다운로드 링크](https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509?l=en)|-|-|
-|[프로젝트](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1)|[프로젝트](https://github.com/iOS-PPAK/PyeonHaeng)|[프로젝트](https://github.com/WhiteHyun/PLUB-iOS)|[프로젝트](https://github.com/boostcampwm2023/iOS08-WeTri)|
+<a href="https://apps.apple.com/app/flip-clock-탁상시계/id1633579148"><img alt="Flip Clock" width="80px" src="https://user-images.githubusercontent.com/57972338/198289621-6dab00d1-7f0e-4851-b2b1-1800909b1b24.png"/></a>
 
+Flip Clock(v1.0.1) - 플립 탁상 시계
+<br/>
+[Repository](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1) | (2022.06~)
+<br/>
 
-### Contact
+<a href="https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509"><img width="80px" src="https://user-images.githubusercontent.com/57972338/210321655-881688c4-c1ca-437d-b795-c1840154294b.png"/></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/whi7ehyun)
-[![email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:whi7ehyun@gmail.com)
+편행(v1.0.2) - 편의점 할인 행사 모음 앱
+<br/>
+[Repository](https://github.com/iOS-PPAK/PyeonHaeng) | (2022.09~2023.02)
+<br/>
+
+<img width="80px" src="https://user-images.githubusercontent.com/57972338/210328485-11e984a0-f7b0-463f-b855-cf46f4ed86c6.png"/>
+
+PLUB - 취미 생활, 소모임 커뮤니티 플랫폼
+<br/>
+[Repository](https://github.com/WhiteHyun/PLUB-iOS) | (2022.11~2023.05)
+<br/>
+
+<img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/8b832295-e5f0-4972-92dd-884843ce174d"/>
+
+WeTri - 유저와 함께하는 실시간 운동 경쟁 플랫폼
+<br/>
+[Repository](https://github.com/boostcampwm2023/iOS08-WeTri) | (2023.10~2023.12)
+<br/>
+
+---
+
+<h4>
+  <br/>
+  <br/>
+  🏆 &nbsp 부스트캠프 웹・모바일 8기 멤버십 수료( 2023.07 ~ 2023.08 )
+  <br/>
+  <br/>
+  🏆 &nbsp 부스트캠프 웹・모바일 8기 챌린지 수료( 2023.08 ~ 2023.12 )
+<br/>
+<br/>
+<br/>
+  🎓 &nbsp Incheon University CSE Bachelor's degree (2016.02 ~ )
+</h4> 
+  
+<br/>
+<br/>
+
+### 🧱 Tech Stack
+
+<div>
+  <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</div>
+
+<br/>
+<br/>
+
+### 📞 Contact
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/whi7ehyun) [![email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:whi7ehyun@gmail.com)
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitehyun&count_bg=%23FFB7C5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
