@@ -12,38 +12,43 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&section=header&color=ededed&fontColor=ffffff&height=150&fontSize=80&animation=fadeIn)
 
-<h3 align="center">🧑🏻‍💻 Intro</h3>
-<h4>
-  🔨 Projects
-</h4>
+## 🧑🏻‍💻 Intro
 
-<a href="https://apps.apple.com/app/flip-clock-탁상시계/id1633579148"><img alt="Flip Clock" width="80px" src="https://user-images.githubusercontent.com/57972338/198289621-6dab00d1-7f0e-4851-b2b1-1800909b1b24.png"/></a>
+### 🔨 Projects
+
+
+
+<a href="https://apps.apple.com/app/flip-clock-탁상시계/id1633579148"><img alt="Flip Clock" width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/00ab37fe-9e0e-467f-acc3-2895ec71d37c"/></a>
 
 Flip Clock(v1.0.1) - 플립 탁상 시계
-<br/>
-[Repository](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1) | (2022.06~)
-<br/>
+</br>
+([Repository](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1) | 2022.06~)
+</br>
+</br>
 
-<a href="https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509"><img width="80px" src="https://user-images.githubusercontent.com/57972338/210321655-881688c4-c1ca-437d-b795-c1840154294b.png"/></a>
+<a href="https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509"><img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/3d3a50a1-fcad-4e85-9772-ceb6c72f245d"/></a>
 
 편행(v1.0.2) - 편의점 할인 행사 모음 앱
 <br/>
-[Repository](https://github.com/iOS-PPAK/PyeonHaeng) | (2022.09~2023.02)
+([Repository](https://github.com/iOS-PPAK/PyeonHaeng) | 2022.09~2023.02)
 <br/>
+</br>
 
-<img width="80px" src="https://user-images.githubusercontent.com/57972338/210328485-11e984a0-f7b0-463f-b855-cf46f4ed86c6.png"/>
+<img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/8c6d1ed8-3a81-4831-a87b-f17763582877"/>
 
 PLUB - 취미 생활, 소모임 커뮤니티 플랫폼
 <br/>
-[Repository](https://github.com/WhiteHyun/PLUB-iOS) | (2022.11~2023.05)
+([Repository](https://github.com/WhiteHyun/PLUB-iOS) | 2022.11~2023.05)
 <br/>
+</br>
 
-<img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/8b832295-e5f0-4972-92dd-884843ce174d"/>
+<img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/64ff2f1b-c3d6-4248-89ac-586f1f094e17"/>
 
 WeTri - 유저와 함께하는 실시간 운동 경쟁 플랫폼
 <br/>
-[Repository](https://github.com/boostcampwm2023/iOS08-WeTri) | (2023.10~2023.12)
+([Repository](https://github.com/boostcampwm2023/iOS08-WeTri) | 2023.10~2023.12)
 <br/>
+</br>
 
 ---
 
