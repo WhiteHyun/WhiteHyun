@@ -60,7 +60,7 @@ WeTri - 유저와 함께하는 실시간 운동 경쟁 플랫폼
 
 <br/>
 
-#### 🎓 Incheon University CSE Bachelor's degree (2016.02 ~ )
+#### 🎓 Incheon University CSE Bachelor's degree (2016.02)
 
   
 <br/>
