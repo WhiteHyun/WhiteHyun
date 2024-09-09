@@ -20,7 +20,7 @@
 
 <a href="https://apps.apple.com/app/flip-clock-탁상시계/id1633579148"><img alt="Flip Clock" width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/00ab37fe-9e0e-467f-acc3-2895ec71d37c"/></a>
 
-Flip Clock(v1.0.1) - 플립 탁상 시계
+Flip Clock(v1.0.1) - 플립 탁상 시계 / フリップ置き時計
 </br>
 ([Repository](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1) | 2022.06~)
 </br>
@@ -28,7 +28,7 @@ Flip Clock(v1.0.1) - 플립 탁상 시계
 
 <a href="https://apps.apple.com/kr/app/%ED%8E%B8%ED%96%89/id1665633509"><img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/3d3a50a1-fcad-4e85-9772-ceb6c72f245d"/></a>
 
-편행(v1.0.2) - 편의점 할인 행사 모음 앱
+편행(v1.0.2) - 편의점 할인 행사 모음 앱 / コンビニ割引イベント集約アプリ
 <br/>
 ([Repository](https://github.com/iOS-PPAK/PyeonHaeng) | 2022.09~2023.02)
 <br/>
@@ -36,7 +36,7 @@ Flip Clock(v1.0.1) - 플립 탁상 시계
 
 <img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/8c6d1ed8-3a81-4831-a87b-f17763582877"/>
 
-PLUB - 취미 생활, 소모임 커뮤니티 플랫폼
+PLUB - 취미 생활, 소모임 커뮤니티 플랫폼 / 趣味、サークルコミュニティプラットフォーム
 <br/>
 ([Repository](https://github.com/WhiteHyun/PLUB-iOS) | 2022.11~2023.05)
 <br/>
@@ -44,7 +44,7 @@ PLUB - 취미 생활, 소모임 커뮤니티 플랫폼
 
 <img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/64ff2f1b-c3d6-4248-89ac-586f1f094e17"/>
 
-WeTri - 유저와 함께하는 실시간 운동 경쟁 플랫폼
+WeTri - 유저와 함께하는 실시간 운동 경쟁 플랫폼 / ユーザーと一緒にリアルタイムで運動競争するプラットフォーム
 <br/>
 ([Repository](https://github.com/boostcampwm2023/iOS08-WeTri) | 2023.10~2023.12)
 <br/>
@@ -54,9 +54,9 @@ WeTri - 유저와 함께하는 실시간 운동 경쟁 플랫폼
 
 <br/>
   
-#### 🏆 부스트캠프 웹・모바일 8기 멤버십 수료( 2023.07 ~ 2023.08 )
+#### 🏆 부스트캠프 웹・모바일 8기 멤버십 수료 / ブーストキャンプ ウェブ・モバイル 8期メンバーシップ修了( 2023.07 ~ 2023.08 )
 
-#### 🏆 부스트캠프 웹・모바일 8기 챌린지 수료( 2023.08 ~ 2023.12 )
+#### 🏆 부스트캠프 웹・모바일 8기 챌린지 수료 / ブーストキャンプ ウェブ・モバイル 8期チャレンジ修了( 2023.08 ~ 2023.12 )
 
 <br/>
 
