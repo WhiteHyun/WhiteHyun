@@ -43,8 +43,10 @@ A nifty service to spot convenience store discount events at a glance
 ### Flip Clock(v1.0.1) - 플립 탁상 시계 / フリップ置き時計
 
 <a href="https://apps.apple.com/app/flip-clock-탁상시계/id1633579148"><img alt="Flip Clock" width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/00ab37fe-9e0e-467f-acc3-2895ec71d37c"/></a>
+
 *2022.06 - 2022.08*
-([Repository](https://github.com/WhiteHyun/FlipClock/tree/v1.0.1) |
+
+- Repository: https://github.com/WhiteHyun/FlipClock/tree/v1.0.1
 
 ## 🏆 Awards
 
