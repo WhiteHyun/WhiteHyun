@@ -1,4 +1,4 @@
-# Hey there! I'm Seung-hyun Hong (WhiteHyun) 👋
+# Hey there! I'm Seung-Hyun Hong (WhiteHyun) 👋
 
 ## iOS Developer
 
