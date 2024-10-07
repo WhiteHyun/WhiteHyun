@@ -37,7 +37,9 @@ A platform for hobby and community activities
 *Mar 2024 - Apr 2024 (Re-design & Migrate to SwiftUI)*
 
 A nifty service to spot convenience store discount events at a glance
-- Repository: https://github.com/iOS-PPAK/PyeonHaeng
+- Repository
+   - v1: https://github.com/iOS-PPAK/PyeonHaeng
+   - v2: https://github.com/PyeonHaeng/PyeonHaeng-iOS
 - Technologies: UIKit, ReactorKit, SwiftUI, Unit Tests, UI Tests
 
 ### Flip Clock(v1.0.1) - 플립 탁상 시계 / フリップ置き時計
