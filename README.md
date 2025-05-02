@@ -68,8 +68,6 @@ A nifty service to spot convenience store discount events at a glance
 - **Incheon National University**, B.S. in Computer Engineering
   *Mar 2016 - Feb 2022*
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitehyun&count_bg=%23FFB7C5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/WhiteHyun/WhiteHyun/output-3d-contrib/night.svg" />
