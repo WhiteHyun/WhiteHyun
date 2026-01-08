@@ -1,78 +1,45 @@
 # Hey there! I'm Seung-Hyun Hong (WhiteHyun) 👋
 
-## iOS Developer
+  ## iOS Developer
 
-📧 Email: whi7ehyun@gmail.com
+  📧 whi7ehyun@gmail.com | 🌐 [Blog & Portfolio](https://whitehyun.notion.site/)
 
-🌐 Blog & Portfolio: [https://whitehyun.notion.site/](https://whitehyun.notion.site/)
+  ## 💼 Experience
 
-## 🔭 Projects
+  ### PaytaLab (패스오더)
+  *iOS Developer | Dec 2024 - Present*
 
-### WeTri (Naver Connect Foundation Boostcamp)
+  ## 🛠 Tech Stack
 
-<img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/64ff2f1b-c3d6-4248-89ac-586f1f094e17"/>
+  - **Languages**: Swift
+  - **UI**: UIKit, SwiftUI
+  - **Reactive**: RxSwift, ReactorKit
+  - **Architecture**: Clean Architecture, MVVM
+  - **Infra**: Tuist, GitHub Actions, CI/CD
 
-*Oct 2023 - Dec 2023*
-A real-time exercise competition platform
-- Repository: https://github.com/boostcampwm2023/iOS08-WeTri
-- Technologies: HealthKit, WebSocket, Tuist
+  ## 🔭 Projects
 
-### PLUB
+  | Project | Description | Tech |
+  |---------|-------------|------|
+  | [WeTri](https://github.com/boostcampwm2023/iOS08-WeTri) | Real-time exercise competition platform | HealthKit, WebSocket, Tuist |
+  | [PLUB](https://github.com/WhiteHyun/PLUB-iOS) | Hobby & community platform | RxSwift, OAuth, MVVM |
+  | [Pyeonhaeng](https://github.com/PyeonHaeng/PyeonHaeng-iOS) | Convenience store discount finder | SwiftUI, ReactorKit |
+  | [Flip Clock](https://apps.apple.com/app/flip-clock-탁상시계/id1633579148) | Flip desk clock app (App Store) | UIKit |
 
-<img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/8c6d1ed8-3a81-4831-a87b-f17763582877"/>
+  ## 🏆 Awards
 
-*Nov 2022 - May 2023*
-A platform for hobby and community activities
-- Repository: https://github.com/WhiteHyun/PLUB-iOS
-- Technologies: RxSwift, OAuth, MVVM
+  - **Gold Award** - 2021 Graduation Project (2nd/53 teams) - IoT Smart Locker
+  - **Silver Award** - INU Code Festival 2021 (4th/59 participants)
 
-### Pyeonhaeng
+  ## 📚 Education
 
-<img width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/3d3a50a1-fcad-4e85-9772-ceb6c72f245d"/>
+  - **Naver Boostcamp Web/Mobile 8th** (Jul 2023 - Dec 2023)
+  - **Incheon National University**, B.S. in Computer Engineering (2016 - 2022)
 
-<img width="80px" src="https://github.com/user-attachments/assets/6a74bf59-6a50-4072-97b7-35b6cf4ea7f2"/>
-
-*Sep 2022 - Feb 2023 (v1.0, UIKit with ReactorKit)*
-
-*Mar 2024 - Apr 2024 (Re-design & Migrate to SwiftUI)*
-
-A nifty service to spot convenience store discount events at a glance
-- Repository
-   - v1: https://github.com/iOS-PPAK/PyeonHaeng
-   - v2: https://github.com/PyeonHaeng/PyeonHaeng-iOS
-- Technologies: UIKit, ReactorKit, SwiftUI, Unit Tests, UI Tests
-
-### Flip Clock(v1.0.1) - 플립 탁상 시계 / フリップ置き時計
-
-<a href="https://apps.apple.com/app/flip-clock-탁상시계/id1633579148"><img alt="Flip Clock" width="80px" src="https://github.com/WhiteHyun/WhiteHyun/assets/57972338/00ab37fe-9e0e-467f-acc3-2895ec71d37c"/></a>
-
-*2022.06 - 2022.08*
-
-- Repository: https://github.com/WhiteHyun/FlipClock/tree/v1.0.1
-
-## 🏆 Awards
-
-- **Gold Award** at the 2021 Computer Engineering Department Graduation Project Presentation
-  - Cooked up a smart locker project with IoT, landing 2nd place out of 53 teams
-- **Silver Award** at the INU Code Festival 2021
-  - Scored 4th place out of 59 participants, flexing those algorithm design muscles
-
-## 📚 Education
-
-- **Naver Boostcamp Web/Mobile 8th** (Challenge & Membership)
-  *Jul 2023 - Dec 2023*
-  - Dove deep into POP-based structure design and dependency separation
-  - Explored the great Struct vs Class debate and established usage criteria
-  - Leveled up performance through rigorous code reviews
-
-- **Incheon National University**, B.S. in Computer Engineering
-  *Mar 2016 - Feb 2022*
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/WhiteHyun/WhiteHyun/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhiteHyun/WhiteHyun/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WhiteHyun/WhiteHyun/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhiteHyun/WhiteHyun/output-3d-contrib/night.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhiteHyun/WhiteHyun/output-3d-contrib/day.svg" />
+      <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/WhiteHyun/WhiteHyun/output-3d-contrib/day.svg" />
+    </picture>
+  </p>
